@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+    <name>sinkcup.github.io/pear2</name>
+    <summary>sinkcup PEAR2 Channel</summary>
+    <alias>sinkcup-pear2</alias>
+    <url>http://sinkcup.github.io/pear2</url>
+</server>

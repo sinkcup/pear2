@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://sinkcup.github.io/pear2</id>
+    <updated>2013-07-10T17:23:44+08:00</updated>
+    <title>sinkcup PEAR2 Channel Latest Releases</title>
+    <link href="http://sinkcup.github.io/pear2/feed.xml" rel="self" />
+    <author>
+        <name>http://sinkcup.github.io/pear2</name>
+    </author>
+
+
+</feed>

@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://sinkcup.github.io/pear2</id>
-    <updated>2013-07-10T17:23:44+08:00</updated>
+    <updated>2014-03-11T17:56:25+08:00</updated>
     <title>sinkcup PEAR2 Channel Latest Releases</title>
     <link href="http://sinkcup.github.io/pear2/feed.xml" rel="self" />
     <author>
         <name>http://sinkcup.github.io/pear2</name>
     </author>
 
-
+    <entry>
+        <title>PEAR2_Services_Sms 0.0.2 (stable)</title>
+        <link href="http://sinkcup.github.io/pear2/get/PEAR2_Services_Sms-0.0.2.tgz" />
+        <id>http://sinkcup.github.io/pear2/get/PEAR2_Services_Sms-0.0.2.tgz</id>
+        <author>
+            <name></name>
+        </author>
+        <updated>2014-03-11T09:54:52+08:00</updated>
+        <content>
+            send sms by some services
+            
+-
+ 
+        </content>
+    </entry>
 </feed>

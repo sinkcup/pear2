@@ -1,3 +1,40 @@
-[
-
-]
+{
+    "pear-sinkcup-pear2\/PEAR2_Services_Sms": {
+        "versions": {
+            "0.0.2": {
+                "name": "pear-sinkcup-pear2\/PEAR2_Services_Sms",
+                "description": "send sms by some services",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/sinkcup.github.io\/pear2\/get\/PEAR2_Services_Sms-0.0.2.tgz"
+                },
+                "version": "0.0.2",
+                "time": "2014-03-11T09:54:52+08:00",
+                "require": {
+                    "php": ">=5.3"
+                },
+                "authors": [
+                    {
+                        "name": "sinkcup",
+                        "email": "sinkcup@163.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "src\/PEAR2\/Services"
+                    ]
+                }
+            }
+        },
+        "name": "pear-sinkcup-pear2\/PEAR2_Services_Sms",
+        "description": "send sms by some services",
+        "maintainers": [
+            {
+                "name": "sinkcup",
+                "email": "sinkcup@163.com",
+                "homepage": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0               http://pear.php.net/dtd/tasks-1.0.xsd               http://pear.php.net/dtd/package-2.0               http://pear.php.net/dtd/package-2.0.xsd">
+ <name>PEAR2_Services_Sms</name>
+ <channel>sinkcup.github.io/pear2</channel>
+ <summary>send sms by some services</summary>
+ <description>send sms by some services</description>
+ <lead>
+  <name>sinkcup</name>
+  <user />
+  <email>sinkcup@163.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2014-03-11</date>
+ <time>09:54:52</time>
+ <version>
+  <release>0.0.2</release>
+  <api>0.0.2</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license>PHP</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file md5sum="e398dce84fa117593a7414d063e811f2" name="src/PEAR2/Services/Sms.php" role="php" />
+   <file md5sum="d25de317cb1b190ad0ac9b55f692e1ee" name="src/PEAR2/Services/Sms/Adapter/Exception.php" role="php" />
+   <file md5sum="58679fb4b57f6e68da7b5979859fc033" name="src/PEAR2/Services/Sms/Adapter/Etonenet.php" role="php" />
+   <file md5sum="3258f035435cdc3f78c3cae5e452ae18" name="src/PEAR2/Services/Sms/Adapter/Bulletin.php" role="php" />
+   <file md5sum="71fa9322b616949e4adbddb1bb3905e5" name="src/PEAR2/Services/Sms/Adapter/Smsbao.php" role="php" />
+   <file md5sum="ef339627b35df9d9d3327387db283709" name="src/PEAR2/Services/Sms/Adapter/Bechsms.php" role="php" />
+   <file md5sum="28b26cffb11d4d80e460aba646887e13" name="src/PEAR2/Services/Sms/Adapter/Mblox.php" role="php" />
+   <file md5sum="7d81d50585d5cadc2d5c058f53d1e490" name="src/PEAR2/Services/Sms/Adapter/Ihuyi.php" role="php" />
+   <file md5sum="01fe289dd54c7bf32e1ec0e4cdb17e7a" name="src/PEAR2/Services/Sms/Adapter.php" role="php" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.3</min>
+   </php>
+   <pearinstaller>
+    <min>1.9.4</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease>
+  <filelist>
+   <install as="PEAR2/Services/Sms.php" name="src/PEAR2/Services/Sms.php" />
+   <install as="PEAR2/Services/Sms/Adapter/Exception.php" name="src/PEAR2/Services/Sms/Adapter/Exception.php" />
+   <install as="PEAR2/Services/Sms/Adapter/Etonenet.php" name="src/PEAR2/Services/Sms/Adapter/Etonenet.php" />
+   <install as="PEAR2/Services/Sms/Adapter/Bulletin.php" name="src/PEAR2/Services/Sms/Adapter/Bulletin.php" />
+   <install as="PEAR2/Services/Sms/Adapter/Smsbao.php" name="src/PEAR2/Services/Sms/Adapter/Smsbao.php" />
+   <install as="PEAR2/Services/Sms/Adapter/Bechsms.php" name="src/PEAR2/Services/Sms/Adapter/Bechsms.php" />
+   <install as="PEAR2/Services/Sms/Adapter/Mblox.php" name="src/PEAR2/Services/Sms/Adapter/Mblox.php" />
+   <install as="PEAR2/Services/Sms/Adapter/Ihuyi.php" name="src/PEAR2/Services/Sms/Adapter/Ihuyi.php" />
+   <install as="PEAR2/Services/Sms/Adapter.php" name="src/PEAR2/Services/Sms/Adapter.php" />
+  </filelist>
+ </phprelease>
+</package>

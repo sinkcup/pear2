@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/pear2_services_sms">PEAR2_Services_Sms</p>
+    <c>sinkcup.github.io/pear2</c>
+    <v>0.0.2</v>
+    <a>0.0.2</a>
+    <mp>5.3</mp>
+    <st>stable</st>
+    <l>PHP</l>
+    <m></m>
+    <s>send sms by some services</s>
+    <d>send sms by some services</d>
+    <da>2014-03-11 09:54:52</da>
+    <n>
+-
+ </n>
+    <f>3974</f>
+    <g>http://sinkcup.github.io/pear2/get/PEAR2_Services_Sms-0.0.2</g>
+    <x xlink:href="package.0.0.2.xml"/>
+</r>

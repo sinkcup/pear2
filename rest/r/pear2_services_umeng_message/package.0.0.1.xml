@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0               http://pear.php.net/dtd/tasks-1.0.xsd               http://pear.php.net/dtd/package-2.0               http://pear.php.net/dtd/package-2.0.xsd">
+ <name>PEAR2_Services_Umeng_Message</name>
+ <channel>sinkcup.github.io/pear2</channel>
+ <summary>send message by Umeng message</summary>
+ <description>send message by Umeng message</description>
+ <lead>
+  <name>sinkcup</name>
+  <user />
+  <email>sinkcup@163.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2014-03-31</date>
+ <time>03:17:32</time>
+ <version>
+  <release>0.0.1</release>
+  <api>0.0.1</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license>PHP</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file md5sum="2f31b20e61280a92d1891f3373aefe41" name="src/PEAR2/Services/Umeng/Message/Exception.php" role="php" />
+   <file md5sum="dcd978cd4c07697966ca9e319bdb096e" name="src/PEAR2/Services/Umeng/Message.php" role="php" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.3</min>
+   </php>
+   <pearinstaller>
+    <min>1.9.4</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease>
+  <filelist>
+   <install as="PEAR2/Services/Umeng/Message/Exception.php" name="src/PEAR2/Services/Umeng/Message/Exception.php" />
+   <install as="PEAR2/Services/Umeng/Message.php" name="src/PEAR2/Services/Umeng/Message.php" />
+  </filelist>
+ </phprelease>
+</package>

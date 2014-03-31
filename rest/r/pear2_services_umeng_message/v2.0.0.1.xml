@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/pear2_services_umeng_message">PEAR2_Services_Umeng_Message</p>
+    <c>sinkcup.github.io/pear2</c>
+    <v>0.0.1</v>
+    <a>0.0.1</a>
+    <mp>5.3</mp>
+    <st>stable</st>
+    <l>PHP</l>
+    <m></m>
+    <s>send message by Umeng message</s>
+    <d>send message by Umeng message</d>
+    <da>2014-03-31 03:17:32</da>
+    <n>
+-
+ </n>
+    <f>2656</f>
+    <g>http://sinkcup.github.io/pear2/get/PEAR2_Services_Umeng_Message-0.0.1</g>
+    <x xlink:href="package.0.0.1.xml"/>
+</r>

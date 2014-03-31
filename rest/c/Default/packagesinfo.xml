@@ -24,5 +24,29 @@
             <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:3:"5.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}}}</d>
         </deps>
 
+    </pi>    <pi>
+        <p>
+            <n>PEAR2_Services_Umeng_Message</n>
+            <c>sinkcup.github.io/pear2</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>PHP</l>
+            <s>send message by Umeng message</s>
+            <d>send message by Umeng message</d>
+            <r xlink:href="/rest/r/pear2_services_umeng_message" />
+        </p>
+
+        <a>
+            <r>
+                <v>0.0.1</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>0.0.1</v>
+            <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:3:"5.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}}}</d>
+        </deps>
+
     </pi>
 </f>
